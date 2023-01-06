@@ -1,2 +1,1 @@
-👋  Hi there
-I'm a Student based in Bali. Still learning everyday. there's a lot more to learn. my repo filled with project that kinda useless for now.
+# Hi there, I'm <span style="color:blue">Jovian Nanda</span>
