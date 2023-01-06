@@ -1,5 +1,5 @@
   <div align="center">
-  <h1>Hi there, I'm <a href="https://www.nanda.codes" target="_blank">Jovian Nanda</a> 👋</h1>
+  <h1>Hi there, I'm <a href="https://github.com/JovianNanda" target="_blank">Jovian Nanda</a> 👋</h1>
   <h3>👦 Jovian Nanda | 💻 (Trying to be a) Full Stack Developer | 🏝️ Indonesia , Bali</h3>
   </div>
   
