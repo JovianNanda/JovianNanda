@@ -10,4 +10,4 @@
     
 ## :book: About Me
 - 🖥 Still learning to be a Full Stack Web Developer
-- 🎓 Still studying about software engineering at SMK TI Bali Global Denpasar
+- 🎓 (High School) Graduated from TI Bali Global Denpasar Vocational High School 2023
