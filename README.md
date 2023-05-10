@@ -7,7 +7,7 @@
    <a href="https://www.instagram.com/joviannandaa/" target="_blank"><img alt="Twitter Follow" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&label=@joviannandaa"></a>
 </p>
 
-![](https://komarev.com/ghpvc/?username=JovianNanda)
+![](https://komarev.com/ghpvc/?username=JovianNanda&style=for-the-badge)
     
 ## :book: About Me
 - 🖥 Still learning to be a Full Stack Web Developer
