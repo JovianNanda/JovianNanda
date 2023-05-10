@@ -5,7 +5,7 @@
   
 <p align="center">
    <a href="https://www.instagram.com/joviannandaa/" target="_blank"><img alt="Twitter Follow" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&label=@joviannandaa"></a>
-![](https://komarev.com/ghpvc/?username=JovianNanda&style=for-the-badge)
+  <img src="![](https://komarev.com/ghpvc/?username=JovianNanda&style=for-the-badge)">
 </p>
     
 ## :book: About Me
