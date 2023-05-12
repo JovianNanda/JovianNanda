@@ -11,3 +11,6 @@
 ## :book: About Me
 - 🖥 Still learning to be a Full Stack Web Developer
 - 🎓 (High School) Graduated from TI Bali Global Denpasar Vocational High School 2023
+
+** :medal: Awards
+- 🥉 UNUD Invention 2022 - Third Place
