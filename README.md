@@ -13,4 +13,4 @@
 - 🎓 (High School) Graduated from TI Bali Global Denpasar Vocational High School 2023
 
 ## :medal_sports: Awards
-- 🥉 UNUD Invention 2022 - Third Place
+- 🥉 Web Design At Universitas Udayan Invention 2022 - Third Place
