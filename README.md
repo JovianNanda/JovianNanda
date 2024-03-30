@@ -1,6 +1,6 @@
 <div align="center"  style="margin-bottom:1rem">
-  <h1>Hi there, I'm <a href="https://github.com/JovianNanda" target="_blank">Jovian Nanda</a> 👋</h1>
-  <h3>👦 Jovian Nanda | 💻 (Trying to be a) Full Stack Developer | 🏝️ Bali, Indonesia </h3>
+  <h1>Hi there, I'm <a href="https://github.com/JovianNanda" target="_blank">Jovian</a> 👋</h1>
+  <h3>👦 Jovian Nanda Sismawan | 💻 (Trying to be a) Full Stack Developer | 🏝️ Bali, Indonesia </h3>
 </div>
  
 <p align="center">
