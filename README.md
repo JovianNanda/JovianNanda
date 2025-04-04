@@ -13,5 +13,5 @@
 - 🎓 (High School) Graduated from TI Bali Global Denpasar Vocational High School 2023
 - 🧑‍🎓 Currently Studying at ITB STIKOM Bali
 
-## :medal_sports: Awards
+## :medal_sports: Award(s)
 - 🥉 Web Design At Universitas Udayana Invention 2022 | Third Place
