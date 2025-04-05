@@ -12,6 +12,7 @@
 - 🖥 Still learning to be a Full Stack Web Developer
 - 🎓 (High School) Graduated from TI Bali Global Denpasar Vocational High School 2023
 - 🧑‍🎓 Currently Studying at ITB STIKOM Bali
+- 🤖 Currently exploring and learning Godot too!
 
 ## :medal_sports: Award(s)
 - 🥉 Web Design At Universitas Udayana Invention 2022 | Third Place
