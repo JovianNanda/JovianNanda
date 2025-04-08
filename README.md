@@ -19,6 +19,7 @@
 
 ## 👨‍💻 Tech Stack
 <div style="flex">
+  <h3>Primary Stack (Preferred & Fluent):</h3>
   <div>
     <h4>Languages</h4>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" id="js">
@@ -34,8 +35,12 @@
     <img src="https://img.shields.io/badge/Nuxt-00DC82.svg?style=for-the-badge&logo=Nuxt&logoColor=white" id="nuxt">
   </div>
 
-  
-  
+  <div>
+    <h4>Database</h4>
+    <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white" id="mysql">
+    <img src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white" id="postgre">
+  </div>
+
 </div>
 
 ## 🧑‍🎓 Currently Learning
