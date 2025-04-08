@@ -20,7 +20,7 @@
 ## 👨‍💻 Tech Stack
 <div style="flex">
   <h4>Languages</h4>
-  <ul style="list-style-type: none">
+  <ul style="list-style: none">
     <li><img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" id="js"></li>
     <li><img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white" id="ts"></li>
     <li><img src="https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=PHP&logoColor=white" id="php"></li>
