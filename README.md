@@ -19,7 +19,7 @@
 
 ## 👨‍💻 Tech Stack
 <div style="flex">
-  <h3>Primary Stack (Preferred & Fluent):</h3>
+  <h4>Primary Stack (Preferred & Fluent):</h4>
   <div>
     <h4>Languages</h4>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" id="js">
@@ -42,7 +42,7 @@
 </div>
 
 <div style="flex">
-  <h3>Also Experienced With (But not fluent) :</h3>
+  <h4>Also Experienced With (But not fluent) :</h4>
   <div>
     <h4>Languages</h4>
     <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white" id="ts">
