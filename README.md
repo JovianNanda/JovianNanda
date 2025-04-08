@@ -19,18 +19,23 @@
 
 ## 👨‍💻 Tech Stack
 <div style="flex">
-  <h4>Languages</h4>
-  <ul style="list-style: none">
-    <li><img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" id="js"></li>
-    <li><img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white" id="ts"></li>
-    <li><img src="https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=PHP&logoColor=white" id="php"></li>
-  </ul>
+  <div>
+    <h4>Languages</h4>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" id="js">
+    img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white" id="ts">
+    <img src="https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=PHP&logoColor=white" id="php">
+  </div>
+
+  <div>
+    <h4>Framework</h4>
+    <img src="https://img.shields.io/badge/Vue.js-4FC08D.svg?style=for-the-badge&logo=vuedotjs&logoColor=white" id="vue">
+    <img src="https://img.shields.io/badge/Laravel-FF2D20.svg?style=for-the-badge&logo=Laravel&logoColor=white" id="laravel">
+    <img src="https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=Express&logoColor=white" id="express">
+    <img src="https://img.shields.io/badge/Nuxt-00DC82.svg?style=for-the-badge&logo=Nuxt&logoColor=white" id="nuxt">
+  </div>
 
   
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D.svg?style=for-the-badge&logo=vuedotjs&logoColor=white" id="vue">
-  <img src="https://img.shields.io/badge/Laravel-FF2D20.svg?style=for-the-badge&logo=Laravel&logoColor=white" id="laravel">
-  <img src="https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=Express&logoColor=white" id="express">
-  <img src="https://img.shields.io/badge/Nuxt-00DC82.svg?style=for-the-badge&logo=Nuxt&logoColor=white" id="nuxt">
+  
 </div>
 
 ## 🧑‍🎓 Currently Learning
