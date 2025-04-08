@@ -42,7 +42,7 @@
 </div>
 
 <div style="flex">
-  <h3>Also Experienced With (But not fluent or still learning) :</h3>
+  <h3>Also Experienced With (But not fluent) :</h3>
   <div>
     <h4>Languages</h4>
     <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white" id="ts">
